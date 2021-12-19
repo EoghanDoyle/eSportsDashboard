@@ -1,2 +1,8 @@
 # eSportsDashboard
 A powerBI dashboard created to show useful insights into the game Valorant
+
+The following report outlines the work carried out to implement a data visualisation solution using publicly available data. The topic chosen was the eSports industry and in particular the online game Valorant. This area of eSports is becoming hugely popular with an estimated market worth of over 3 billion is estimated by the end of 2022 (Goldmansachs, n.d.). With this huge increase in popularity, and a personal interest in this area, therefore this topic was chosen. The aim of this report is to outline the work developed in the power BI dashboard and to explain each chart that was developed. Included in the power BI attachment are 2 dashboards or pages of different charts described below. 
+Domain Information
+
+The data set I have chosen is from on an online FPS (First Person Shooter) game called Valorant. Two teams play against each other with 5 players on each team. A player can choose any agent of which there is a list of in table 1. Only one agent of each type can be present on each team, for example only one Reyna can be chosen but multiple duellists or agent classes can be. Also, to note, each agent is categorised which can be seen in the table below. There are currently only 6 maps for which players can compete on. Some data points which will be examined include the win percentage. The First Blood percentage which is the percentage a particular agent has in getting the first kill in a game. The K/D ratio refers to an agents overall kills to deaths, where a positive K/D is considered optimal.  
+
